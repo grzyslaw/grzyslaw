@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grzyslaw, data engeneering student from Poland.
 - 👀 I’m interested in blockchain, web3 developement, databases and widely understood data analysis.
-- 🌱 I’m currently learning solidity, cairo, react and javascript.
+- 🌱 I’m currently developing smart contracts and web3 applications for Digital Avatars & Robotics.
 - 📫 In case of any inquires, etc. feel free to contact me via Discord (Grzyslaw#6500).
 
 <!---
