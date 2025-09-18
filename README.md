@@ -1,6 +1,6 @@
 Hi, I’m @grzyslaw — Data Engineer & Web3 Developer from Poland.
 
-🎮 Experience building on-chain games (Solidity + Web3 stack).
+🎮 Experience building on-chain applications (Solidity + Web3 stack).
 
 📊 Strong background in databases & data analytics.
 
